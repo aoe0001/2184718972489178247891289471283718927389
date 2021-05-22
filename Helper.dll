@@ -1,0 +1,991 @@
+WScript.Sleep 500
+WScript.Sleep 500
+Set WshShell = WScript.CreateObject("WScript.Shell")
+WshShell.Run "notepad"
+WScript.Sleep 100
+WshShell.AppActivate "Notepad"
+WScript.Sleep 500
+WshShell.SendKeys "Hel"
+WScript.Sleep 500
+WshShell.SendKeys "lo "
+WScript.Sleep 500
+WshShell.SendKeys ", You"
+WScript.Sleep 500
+WshShell.SendKeys "r S"
+WScript.Sleep 500
+WshShell.SendKeys "ystem"
+WScript.Sleep 500
+WshShell.SendKeys " is "
+WScript.Sleep 500
+WshShell.SendKeys " hacked"
+WScript.Sleep 500
+WshShell.SendKeys "! Say"
+WScript.Sleep 500
+WshShell.SendKeys " Good"
+WScript.Sleep 500
+WshShell.SendKeys "bye to"
+WScript.Sleep 500
+WshShell.SendKeys " your"
+WScript.Sleep 500
+WshShell.SendKeys " Files HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+WScript.Sleep 500
+WshShell.SendKeys " HAHA "
+
